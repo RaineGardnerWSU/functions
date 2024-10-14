@@ -6,7 +6,9 @@
 #  Example return: "Hello, George"
 
 #Define function #2 here.
-
+def Greeting(name):
+    message = "Hello, "+name
+    return message
 
 result = Greeting("George")
 print(result)

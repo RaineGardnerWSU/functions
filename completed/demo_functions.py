@@ -15,11 +15,16 @@ def ConvertFtoC(celsius):
 
 #Call the Celsius to Fahrenheit function and print
 print("Fahrenheit Temps are:")
-print(ConvertCtoF(100))
-print(ConvertCtoF(0))
-print(ConvertCtoF(30))
-print(ConvertCtoF(20))
-print(ConvertCtoF(10))
+result = ConvertCtoF(100)
+print(result)
+result = ConvertCtoF(0)
+print(result)
+result = ConvertCtoF(30)
+print(result)
+result = ConvertCtoF(20)
+print(result)
+result = ConvertCtoF(10)
+print(result)
 
 #Call the Fahrenheit to Celsius function and print
 print("Celsius Temps are:")

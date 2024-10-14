@@ -7,7 +7,9 @@
 
 #Define the #3 function here
 
-
+def Add(firstNum,secondNum):
+    sum = firstNum + secondNum
+    return sum
 
 print(Add(1,2))
 print(Add(4,5))

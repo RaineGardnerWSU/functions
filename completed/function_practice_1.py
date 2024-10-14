@@ -9,6 +9,7 @@
 #  Example return: "Hello World."
 
 #define your function here.
-
+def Message():
+    return "Hello World."
 
 print(Message())

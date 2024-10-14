@@ -7,6 +7,9 @@
 
 #Define the #4 function here
 
+def nameAndAge(name,userAge):
+    user= f"{name} is {userAge} years old."
+    return user
 
 print(nameAndAge("George", 25))
 
