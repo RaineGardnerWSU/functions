@@ -1,6 +1,8 @@
 
 ## Python Documentation Tutorial
+[https://docs.python.org/3.13/reference/compound_stmts.html#def](https://docs.python.org/3.13/reference/compound_stmts.html#def)
 [https://docs.python.org/3.13/tutorial/controlflow.html#defining-functions](https://docs.python.org/3.13/tutorial/controlflow.html#defining-functions)
+
 
 ## Computer Programming Functions
 [https://en.wikipedia.org/wiki/Function_(computer_programming)](https://en.wikipedia.org/wiki/Function_(computer_programming))
