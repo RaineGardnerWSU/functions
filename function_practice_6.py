@@ -11,4 +11,10 @@
 #       He was not cheering for Weber State. He said, "don't tell anyone George."
 
 #Define the #5 function here
+def Story(studentName, teacherName, schoolName, sport):
+    storyString1 = f'I love {sport}. I went to the {schoolName} {sport} game. I saw {teacherName} there.'
+    storyString2 = f'He was not cheering for {schoolName}. He said, "Don\'t tell anyone, {studentName}."'
+    return f'{storyString1}\n{storyString2}'
 
+
+print(Story('Raine', 'Dr. Valle', 'Weber State', 'Football'))
