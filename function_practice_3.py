@@ -6,7 +6,9 @@
 #  Example return: "3"
 
 #Define the #3 function here
-
+def Add(number1, number2):
+    sum = number1 + number2
+    return sum
 
 
 print(Add(1,2))
