@@ -6,7 +6,8 @@
 #  Example return: "George is 25 years old."
 
 #Define the #4 function here
+def nameAndAge(name, age):
+    return f'{name} is {age} years old.'
 
 
-print(nameAndAge("George", 25))
-
+print(nameAndAge("Raine", 21))
